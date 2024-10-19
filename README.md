@@ -1,2 +1,2 @@
 # cheatseats
-Cheatsheet collections
+Winson Huang's cheatsheet collections
